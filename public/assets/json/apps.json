@@ -1,0 +1,107 @@
+[
+    {
+      "image": "/assets/imgs/apps/youtube.jpg",
+      "loc": "/uv/ga.html#aHR0cHM6Ly95b3V0dWJlLmNvbQ==",
+      "title": "Youtube"
+    },
+    {
+      "image": "/assets/imgs/apps/spotify.jpg",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9zcG90aWZ5LmNvbQ==",
+      "title": "Spotify"
+    },
+    {
+      "image": "/assets/imgs/apps/discord.jpg",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9kaXNjb3JkLmNvbQ==",
+      "title": "Discord"
+    },
+    {
+      "image": "/assets/imgs/apps/vsc.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly92c2NvZGUuZGV2",
+      "title": "VS Code"
+    },
+    {
+      "image": "/assets/imgs/apps/snap.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93ZWIuc25hcGNoYXQuY29t",
+      "title": "Snapchat"
+    },
+    {
+      "image": "/assets/imgs/apps/tiktok.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cudGlrdG9rLmNvbS8=",
+      "title": "TikTok"
+    },
+    {
+      "image": "/assets/imgs/apps/gmail.webp",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9tYWlsLmdvb2dsZS5jb20v",
+      "title": "Gmail"
+    },
+    {
+      "image": "/assets/imgs/apps/github.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9naXRodWIuY29tLw==",
+      "title": "GitHub"
+    },
+      {
+      "image": "/assets/imgs/apps/twitch.webp",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cudHdpdGNoLnR2Lw==",
+      "title": "Twitch"
+    },
+    {
+      "image": "/assets/imgs/apps/pinterest.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS8=",
+      "title": "Pinterest"
+    },
+    {
+      "image": "/assets/imgs/apps/facebook.webp",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw==",
+      "title": "Facebook"
+    },
+    {
+      "image": "/assets/imgs/apps/reddit.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8=",
+      "title": "Reddit"
+    },
+    {
+      "image": "/assets/imgs/apps/soundcloud.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS8=",
+      "title": "SoundCloud"
+    },
+    {
+      "image": "/assets/imgs/apps/amazon.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cuYW1hem9uLmNvbS8=",
+      "title": "Amazon"
+    },
+    {
+      "image": "/assets/imgs/apps/telegram.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93ZWIudGVsZWdyYW0ub3JnL2Ev",
+      "title": "Telegram"
+    },
+    {
+      "image": "/assets/imgs/apps/pixlr.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9waXhsci5jb20v",
+      "title": "Pixlr"
+    },
+    {
+      "image": "/assets/imgs/apps/hbomax.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cubWF4LmNvbS8=",
+      "title": "HBO Max"
+    },
+    {
+      "image": "/assets/imgs/apps/poki.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly9wb2tpLmNvbQ==",
+      "title": "Poki"
+    },
+    {
+      "image": "/assets/imgs/apps/tumblr.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cudHVtYmxyLmNvbS8=",
+      "title": "Tumblr"
+    },
+    {
+      "image": "/assets/imgs/apps/zoroto.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly96b3JvLnRv",
+      "title": "ZORO.to"
+    },
+    {
+      "image": "/assets/imgs/apps/paramount.png",
+      "loc": "/uv/ga.html#aHR0cHM6Ly93d3cucGFyYW1vdW50cGx1cy5jb20v",
+      "title": "Paramount Plus"
+    }
+  ]
