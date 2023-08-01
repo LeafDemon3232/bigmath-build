@@ -1,0 +1,13 @@
+UNCOMPLETE:
+8. Redo proxy
+9. Add games & games player page
+10. Fix & update navigation bar
+
+COMPLETE:
+1. Redo Apps/Games button
+2. Redo 404 page
+3. Games and Apps search bar
+4. Add landing page
+5. Organize and optimize CSS
+6. New Background Color
+7. Redo Settings
